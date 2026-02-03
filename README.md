@@ -1,2 +1,7 @@
-# DPIA-Demystifying-AI-Programming
-Projects and notes carried out in for the TDP course in the Gen AI &amp; LLMs postgraduate program, 2026.1
+# [DPIA] Demystifying AI programming
+* **Course:** DPIA
+* **Semester:** 2026.1
+* **Supervisor:** Manoela Kohler
+* **Group Members:**
+  * Pedro Gabriel Serodio Sales
+
