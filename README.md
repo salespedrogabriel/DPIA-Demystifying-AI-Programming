@@ -1,4 +1,4 @@
-# [DPIA] Demystifying AI programming
+# [DPIA] Demystifying AI Programming
 * **Course:** DPIA
 * **Semester:** 2026.1
 * **Supervisor:** Manoela Kohler
